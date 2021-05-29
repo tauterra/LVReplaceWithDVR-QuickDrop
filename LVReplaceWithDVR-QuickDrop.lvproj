@@ -41,7 +41,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">resource/dialog/QuickDrop/plugins</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToAppDir</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{5720119C-A33F-4FBE-9C9B-6552B2BA72A3}</Property>
-				<Property Name="Bld_version.build" Type="Int">57</Property>
+				<Property Name="Bld_version.build" Type="Int">59</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Destination Directory</Property>
 				<Property Name="Destination[0].path" Type="Path">resource/dialog/QuickDrop/plugins</Property>
