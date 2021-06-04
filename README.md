@@ -1,4 +1,4 @@
-# LVReplaceWithDVR-QuickDrop for LabVIEW™
+# Replace With DVR QuickDrop Plugin for LabVIEW™
 
 A QuickDrop plugin that replaces selected controls and indicators with Data Value References (DVRs) of the same type.
 
